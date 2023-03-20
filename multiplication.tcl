@@ -6,4 +6,4 @@ while {$i <= $n} {
 set mul [expr $mul * $i]
 incr i
 }
-puts "The multiplication of the numbers from 1 to $n is $mul 
+puts "The multiplication of the numbers from 1 to $n is $mul"
